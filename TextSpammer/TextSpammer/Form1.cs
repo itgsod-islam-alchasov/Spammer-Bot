@@ -43,15 +43,15 @@ namespace TextSpammer
         private void Spammer_Tick(object sender, EventArgs e)
         {
             //Gets a custom number for the delay
-            int anInteger;
-            anInteger = Convert.ToInt32(textBox2.Text);
+            int Delay;
+            Delay = Convert.ToInt32(textBox2.Text);
 
             //Takes the text in text pox and sends the text to whatever you are using.
             SendKeys.Send(textBox1.Text);
             SendKeys.Send("{ENTER}");
 
             //The delay
-            Thread.Sleep(anInteger * 1000);
+            Thread.Sleep(Delay * 1000);
         }
 
     }

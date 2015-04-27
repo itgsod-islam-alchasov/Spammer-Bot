@@ -1,0 +1,9 @@
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\bin\Debug\TextSpammer.exe.config
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\bin\Debug\TextSpammer.exe
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\bin\Debug\TextSpammer.pdb
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\obj\Debug\TextSpammer.csprojResolveAssemblyReference.cache
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\obj\Debug\TextSpammer.Form1.resources
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\obj\Debug\TextSpammer.Properties.Resources.resources
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\obj\Debug\TextSpammer.csproj.GenerateResource.Cache
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\obj\Debug\TextSpammer.exe
+E:\Users\Islam Alchasov\Dropbox\dev\Programing\c#\Random Things\TextSpammer\TextSpammer\obj\Debug\TextSpammer.pdb
